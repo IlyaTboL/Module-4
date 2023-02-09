@@ -7,7 +7,7 @@
         double X = 4.2;
         double Y = 4.1;
 
-        bool C = A < B || X > Y; 
+        bool C = (A < B) | (X > Y); 
         Console.WriteLine(C);
     }
 }
