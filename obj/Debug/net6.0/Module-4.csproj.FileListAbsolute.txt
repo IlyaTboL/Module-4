@@ -1,0 +1,15 @@
+C:\Users\Полиа\source\repos\Module-4\obj\Debug\net6.0\Module-4.csproj.AssemblyReference.cache
+C:\Users\Полиа\source\repos\Module-4\obj\Debug\net6.0\Module-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Полиа\source\repos\Module-4\obj\Debug\net6.0\Module-4.AssemblyInfoInputs.cache
+C:\Users\Полиа\source\repos\Module-4\obj\Debug\net6.0\Module-4.AssemblyInfo.cs
+C:\Users\Полиа\source\repos\Module-4\obj\Debug\net6.0\Module-4.csproj.CoreCompileInputs.cache
+C:\Users\Полиа\source\repos\Module-4\bin\Debug\net6.0\Module-4.exe
+C:\Users\Полиа\source\repos\Module-4\bin\Debug\net6.0\Module-4.deps.json
+C:\Users\Полиа\source\repos\Module-4\bin\Debug\net6.0\Module-4.runtimeconfig.json
+C:\Users\Полиа\source\repos\Module-4\bin\Debug\net6.0\Module-4.dll
+C:\Users\Полиа\source\repos\Module-4\bin\Debug\net6.0\Module-4.pdb
+C:\Users\Полиа\source\repos\Module-4\obj\Debug\net6.0\Module-4.dll
+C:\Users\Полиа\source\repos\Module-4\obj\Debug\net6.0\refint\Module-4.dll
+C:\Users\Полиа\source\repos\Module-4\obj\Debug\net6.0\Module-4.pdb
+C:\Users\Полиа\source\repos\Module-4\obj\Debug\net6.0\Module-4.genruntimeconfig.cache
+C:\Users\Полиа\source\repos\Module-4\obj\Debug\net6.0\ref\Module-4.dll
