@@ -1,13 +1,33 @@
 ﻿class MainClass
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        int A = 7;
-        int B = 3;
-        double X = 4.2;
-        double Y = 4.1;
+        Console.WriteLine("Напишите свой любимый цвет на английском языке с маленькой буквы");
 
-        bool C = (A < B) | (X > Y); 
-        Console.WriteLine(C);
+        var color = Console.ReadLine ();
+
+        if (color == "red")
+        {
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.ForegroundColor= ConsoleColor.Black;
+            Console.WriteLine("Ваш любимый цвет Красный!");
+
+        }
+
+        else if (color == "green")
+        {
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.ForegroundColor= ConsoleColor.Black;
+            Console.WriteLine("Ваш любимый цвет Зеленый!");
+
+        }
+        else
+        {
+            Console.BackgroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.WriteLine("Ваш любимый цвет не опознан!");
+        }
+
+        
     }
 }
