@@ -1,6 +1,7 @@
 ﻿class MainClass
 {
     public static void Main(string[] args)
+    
     {
         Console.WriteLine("Напишите свой любимый цвет на английском языке с маленькой буквы");
 
