@@ -6,26 +6,28 @@
 
         var color = Console.ReadLine ();
 
-        if (color == "red")
+        switch(color) 
         {
+            case "red":
             Console.BackgroundColor = ConsoleColor.Red;
             Console.ForegroundColor= ConsoleColor.Black;
             Console.WriteLine("Ваш любимый цвет Красный!");
+                break;
 
-        }
-
-        else if (color == "green")
-        {
+            case "green":
+        
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor= ConsoleColor.Black;
             Console.WriteLine("Ваш любимый цвет Зеленый!");
+                break;
 
-        }
-        else
-        {
-            Console.BackgroundColor = ConsoleColor.Cyan;
-            Console.ForegroundColor = ConsoleColor.Black;
+        
+        default: 
+        
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Ваш любимый цвет не опознан!");
+                break;
         }
 
         
