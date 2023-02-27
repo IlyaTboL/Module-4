@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module-4", "Module-4.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{42CACD8E-DDF8-44C7-8A44-3279751D313D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module4.3", "..\Module4.3\Module4.3.csproj", "{A81380D3-2088-43C5-B8BE-261366F79557}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module4.3", "..\Module4.3\Module4.3.csproj", "{A81380D3-2088-43C5-B8BE-261366F79557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module4.3.12", "..\Module4.3.12\Module4.3.12.csproj", "{176F8994-141F-4221-AFF7-004DC7ADD264}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +25,17 @@ Global
 		{A81380D3-2088-43C5-B8BE-261366F79557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A81380D3-2088-43C5-B8BE-261366F79557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A81380D3-2088-43C5-B8BE-261366F79557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176F8994-141F-4221-AFF7-004DC7ADD264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176F8994-141F-4221-AFF7-004DC7ADD264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176F8994-141F-4221-AFF7-004DC7ADD264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176F8994-141F-4221-AFF7-004DC7ADD264}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A81380D3-2088-43C5-B8BE-261366F79557} = {42CACD8E-DDF8-44C7-8A44-3279751D313D}
+		{176F8994-141F-4221-AFF7-004DC7ADD264} = {42CACD8E-DDF8-44C7-8A44-3279751D313D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E21FBAF2-20E3-497D-9E71-B02779B24431}
